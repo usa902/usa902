@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hope you are having a great day!
+
 <!--
 **usa902/usa902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
